@@ -1,0 +1,23 @@
+{
+  "name": "node6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trak2022z/node6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trak2022z/node6/issues"
+  },
+  "homepage": "https://github.com/trak2022z/node6#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
